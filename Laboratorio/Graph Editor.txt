@@ -1,0 +1,12 @@
+ACTORS
+User
+
+USE CASE
+add node
+select node <- (extend) move node
+            <- (extend) delete node
+add arc <- (include) select start point <- (include) select end point
+        <- (extend) specify direction
+select arc <- (extend) move arc
+           <- (extend) delete arc
+Add comment

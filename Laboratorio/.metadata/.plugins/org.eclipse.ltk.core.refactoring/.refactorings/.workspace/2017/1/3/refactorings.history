@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Elimina risorsa &apos;Modelli vari/Package vuoto1.emx&apos;" deleteContents="false" description="Elimina risorsa &apos;Modelli vari/Package vuoto1.emx&apos;" element1="/Modelli vari/Package vuoto1.emx" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1484577671991"/>
+</session>
