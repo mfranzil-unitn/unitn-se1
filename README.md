@@ -16,7 +16,7 @@ This repo contains material about the following course:
 
 You can find the following material in the repo:
 
-* Laboratorio/ - Code made during IBM RSA labs.
+* lab/ - Code made during IBM RSA labs (not only mine).
 
 ## Authors
 
